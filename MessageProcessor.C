@@ -9,6 +9,7 @@
 #include <algorithm>
 #include <string>
 #include <chrono>
+#include <stdlib.h>
 using namespace std;
 
 enum class MessageType
