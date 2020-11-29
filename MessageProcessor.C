@@ -12,7 +12,6 @@
 #include <stdlib.h>
 #include <unistd.h>
 //Test One
-//Test Two
 using namespace std;
 
 enum class MessageType
